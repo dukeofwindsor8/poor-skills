@@ -1,0 +1,12 @@
+.devcontainer/devcontainer.json
+{
+    // Name this configuration
+    "name": "test",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
